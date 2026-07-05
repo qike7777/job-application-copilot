@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Application Copilot"
+  short_description: "JD 反推、简历改写、Figma 排版与投递 QA"
+  default_prompt: "Use $job-application-copilot to reverse-engineer this JD and turn my resume into a polished, role-specific application package."
